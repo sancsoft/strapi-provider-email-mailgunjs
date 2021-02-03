@@ -1,6 +1,6 @@
 {
-  "name": "strapi-provider-email-mailgunjs",
-  "version": "3.4.5",
+  "name": "@sancsoft/strapi-provider-email-mailgunjs",
+  "version": "0.1",
   "description": "Mailgun provider for strapi email plugin",
   "homepage": "http://strapi.io",
   "keywords": [
@@ -27,9 +27,9 @@
   },
   "maintainers": [
     {
-      "name": "Strapi team",
-      "email": "hi@strapi.io",
-      "url": "http://strapi.io"
+      "name": "Ryan Maffit",
+      "email": "rmaffit@sancsoft.com",
+      "url": "https://www.sancsoft.com"
     }
   ],
   "repository": {
