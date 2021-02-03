@@ -1,5 +1,5 @@
 {
-  "name": "strapi-provider-email-mailgun",
+  "name": "strapi-provider-email-mailgunjs",
   "version": "3.4.5",
   "description": "Mailgun provider for strapi email plugin",
   "homepage": "http://strapi.io",
@@ -34,10 +34,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/strapi/strapi.git"
+    "url": "git://github.com/sancsoft/strapi-provider-email-mailgunjs.git"
   },
   "bugs": {
-    "url": "https://github.com/strapi/strapi/issues"
+    "url": "https://github.com/sancsoft/strapi-provider-email-mailgunjs/issues"
   },
   "engines": {
     "node": ">=10.16.0 <=14.x.x",
