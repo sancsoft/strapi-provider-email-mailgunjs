@@ -18,10 +18,10 @@ You need to have the plugin `strapi-plugin-email` installed in you Strapi projec
 
 ```bash
 # using yarn
-yarn add @sancsoft/strapi-provider-email-mailgunjs
+yarn add strapi-provider-email-mailgunjs@npm:@sancsoft/strapi-provider-email-mailgunjs
 
 # using npm
-npm install @sancsoft/strapi-provider-email-mailgunjs --save
+npm install strapi-provider-email-mailgunjs@npm:@sancsoft/strapi-provider-email-mailgunjs --save
 ```
 
 ## Configuration
