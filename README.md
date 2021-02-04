@@ -31,7 +31,7 @@ npm install strapi-provider-email-mailgunjs@npm:@sancsoft/strapi-provider-email-
 | provider                | string                  | The name of the provider you use                                                                                                   | yes      |           |
 | providerOptions         | object                  | Will be directly given to the `require('mailgun.js')`. Please refer to [mailgun.js](https://github.com/mailgun/mailgun-js) doc.    | yes      |           |
 | settings                | object                  | Settings                                                                                                                           | yes      | {}        |
-| settings.domain         | string                  | Mailgin sending      domain                                                                                                        | yes      |           |
+| settings.domain         | string                  | Mailgun sending      domain                                                                                                        | yes      |           |
 | settings.defaultFrom    | string                  | Default sender mail address                                                                                                        | no       | undefined |
 | settings.defaultReplyTo | string \| array<string> | Default address or addresses the receiver is asked to reply to                                                                     | no       | undefined |
 
