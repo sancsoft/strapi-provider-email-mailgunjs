@@ -1,6 +1,6 @@
 {
   "name": "@sancsoft/strapi-provider-email-mailgunjs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Mailgun provider for strapi email plugin",
   "homepage": "http://strapi.io",
   "keywords": [
